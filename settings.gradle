@@ -1,0 +1,1 @@
+include ':app', ':android-beacon-library-2.5.1', ':subsampling-scale-image-view-3.1.4'
